@@ -6,11 +6,11 @@
 }
 
 .container {
-    background-color: #2c2e3e;
-    border-radius: 10px;
     padding: 0px 25px 0px 25px;
+    border-radius: 10px;
 }
 .container#main_c {
+    background-color: #2c2e3e;
     display: flex;
     text-align: center;
     flex-direction: column;
