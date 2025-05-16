@@ -10,7 +10,7 @@
     border-radius: 10px;
     padding: 0px 25px 0px 25px;
     display: flex;
-    align-items: center;
+    flex-direction: column;
 }
 
 h1 {
