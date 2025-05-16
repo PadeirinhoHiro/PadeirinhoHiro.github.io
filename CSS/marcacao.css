@@ -6,11 +6,15 @@
 }
 
 #div_title {
-    background-color: #2f1b41;
+    background-color: #2c2e3e;
     border-radius: 10px;
     padding: 0px 5px 0px 5px;
 }
 
 h1 {
-    color: #f05941;
+    color: #f6f6f6;
+}
+
+body {
+    color: #34374c;
 }
