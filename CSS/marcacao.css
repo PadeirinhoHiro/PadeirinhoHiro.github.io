@@ -13,7 +13,12 @@
     flex-direction: column;
 }
 
+h1#title {
+    font-size: 45px;
+}
+
 h1 {
+    font-size: 30px;
     color: #f6f6f6;
 }
 
