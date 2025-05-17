@@ -32,6 +32,7 @@ body {
     background-color: #34374c;
 }
 
-pre {
+p {
+    text-align: justify;
     color: #ee2b47;
 }
