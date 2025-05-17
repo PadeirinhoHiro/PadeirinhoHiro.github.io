@@ -4,6 +4,12 @@
     font-weight: <weight>;
     font-style: normal;
 }
+.lexend-<uniquifier > {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
 
 .container {
     padding: 0px 25px 25px 25px;
