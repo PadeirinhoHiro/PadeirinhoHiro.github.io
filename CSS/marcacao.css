@@ -15,6 +15,9 @@
     text-align: center;
     flex-direction: column;
 }
+.container#bio_c {
+    background_color: #f6f6f6;
+}
 
 h1#title {
     font-size: 75px;
