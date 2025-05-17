@@ -17,11 +17,11 @@
 }
 .container#bio_c {
     background-color: #f6f6f6;
-    color: #f6f6f6;
     margin: 0px 30px 0px 30px;
 }
 
 h1#title {
+    color: #f6f6f6;
     font-size: 75px;
 }
 
