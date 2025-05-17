@@ -16,7 +16,8 @@
     flex-direction: column;
 }
 .container#bio_c {
-    color: #f6f6f6;
+    background-color: #f6f6f6;
+    margin: 0px 10px 0px 10px;
 }
 
 h1#title {
