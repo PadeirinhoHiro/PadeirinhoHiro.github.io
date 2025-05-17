@@ -16,24 +16,24 @@
     border-radius: 10px;
 }
 .container#main_c {
-    background-color: #2c2e3e;
+    background-color: #393e46;
     display: flex;
     text-align: center;
     flex-direction: column;
 }
 .container#bio_c {
-    background-color: #f6f6f6;
-    color: #ee2b47;
+    background-color: #948979;
+    color: #dfd0b8;
     margin: 0px 200px 20px 200px;
 }
 
 h1#title {
-    color: #f6f6f6;
+    color: #dfd0b8;
     font-size: 75px;
 }
 
 body {
-    background-color: #34374c;
+    background-color: #222831;
 }
 
 p#bio_text {
