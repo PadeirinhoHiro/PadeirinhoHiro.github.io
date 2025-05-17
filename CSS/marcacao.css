@@ -17,6 +17,7 @@
 }
 .container#bio_c {
     background-color: #f6f6f6;
+    color: #ee2b47;
     margin: 0px 30px 0px 30px;
 }
 
@@ -31,5 +32,4 @@ body {
 
 p {
     text-align: justify;
-    color: #ee2b47;
 }
