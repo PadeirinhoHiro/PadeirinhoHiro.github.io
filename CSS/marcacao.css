@@ -31,5 +31,6 @@ body {
 }
 
 p#bio_text {
+    font-size: 20px;
     text-align: justify;
 }
